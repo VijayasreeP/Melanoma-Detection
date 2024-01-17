@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Melanoma Detection
+> To Build a CNN model that can detect Melanoma based on the test data provided
 
 
 ## Table of Contents
